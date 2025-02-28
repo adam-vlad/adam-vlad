@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on a variety of computer science porjects.
+
 <!--
 **adam-vlad/adam-vlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
